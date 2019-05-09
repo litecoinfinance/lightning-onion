@@ -9,9 +9,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	sphinx "github.com/lightningnetwork/lightning-onion"
+	"github.com/litecoinfinance/btcd/btcec"
+	"github.com/litecoinfinance/btcd/chaincfg"
+	sphinx "github.com/litecoinfinance/lightning-onion"
 )
 
 // main implements a simple command line utility that can be used in order to
